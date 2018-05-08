@@ -1,0 +1,34 @@
+/*覆盖进度条样式*/
+#nprogress .bar{
+    background: #02b4a3 !important;
+}
+/*覆盖swiper的indicator*/
+#app .swiper-pagination-bullet{
+    width: 0.186667rem;
+    height: 0.186667rem;
+    background: none;
+    background-image: url('../icon/indicator.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 1;
+}
+#app .swiper-pagination-bullet-active{
+    width: 0.186667rem;
+    height: 0.186667rem;
+    background: none;
+    background-image: url('../icon/indicator_isactive.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    opacity: 1;
+}
+/*icon点击增加透明度*/
+#app .icon-opacity-click{
+    opacity: 0.5;
+}
+/*按钮点击增更换背景色*/
+#app .btn-click{
+    background-color: #019c8d;
+}
+#app .white-click{
+    background-color: #f9f9f9;
+}

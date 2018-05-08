@@ -1,0 +1,25 @@
+body, div, span, header, footer, nav, section, aside, article, ul, dl, dt, dd, li, a, p, i, b, textarea, button, input, select, figure, figcaption, hr{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-style: normal;
+    outline: none;
+    font-family: Helvetica, Tahoma, Arial, "PingFang SC", "Hiragino Sans GB", "Heiti SC", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color:transparent;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+a {
+    text-decoration: none;
+}
+a:focus {
+    outline: none;
+}
