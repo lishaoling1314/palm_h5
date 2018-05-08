@@ -2,7 +2,7 @@
 https://hjiaqi.github.io/palm_h5/palm/index.html#/
 
 ## 说明
-由于数据获取远程服务器数据，github上面获取不到数据。建议clone下来查看！
+由于本项目数据是通过HTTP协议获取远程服务器的数据，而github为https协议不能获取到远程数据。建议clone下来查看！
 
 ## Build Setup
 
