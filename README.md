@@ -1,6 +1,8 @@
-# zljy
+# 预览地址
+https://hjiaqi.github.io/palm_h5/palm/index.html#/
 
-> zljy h5
+## 说明
+由于数据获取远程服务器数据，github上面获取不到数据。建议clone下来查看！
 
 ## Build Setup
 
