@@ -1,5 +1,5 @@
 # 预览地址
-https://hjiaqi.github.io/palm_h5/palm/index.html#/
+https://lishaoling1314.github.io/palm_h5/palm/index.html#/
 
 ## 说明
 由于本项目数据是通过HTTP协议获取远程服务器的数据，而github为https协议不能获取到远程数据。建议clone下来查看！
